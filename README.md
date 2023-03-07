@@ -21,6 +21,10 @@
 File system utilities for managing files and folders including reading, writing and appending to files. It also includes a `Resumable` component
 that provides an object oriented backend to manage resumable and chunk file uploads via resumable.js.
 
+### Fork information
+
+The project was forked to use under php 8 and above.
+
 ### Install
 
 Either run
@@ -32,7 +36,7 @@ $ php composer.phar require kartik-v/yii2-filesystem "@dev"
 or add
 
 ```
-"kartik-v/yii2-filesystem": "@dev"
+"fikusz01/yii2-filesystem": "*"
 ```
 
 to the ```require``` section of your `composer.json` file.

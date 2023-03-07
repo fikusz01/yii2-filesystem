@@ -1,5 +1,5 @@
 {
-    "name": "kartik-v/yii2-filesystem",
+    "name": "fikusz01/yii2-filesystem",
     "description": "File system utilities for managing files and folders including reading, writing and appending to files",
     "keywords": [
         "yii2",
